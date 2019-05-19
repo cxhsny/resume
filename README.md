@@ -1,4 +1,5 @@
 # resume
+## Welcome to GitHub Pages
 ##姓名：陈小慧
 ##学历：本科
 ##学校：湖南科技大学
